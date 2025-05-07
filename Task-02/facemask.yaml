@@ -1,0 +1,6 @@
+
+train: /content/datasets/train
+val: /content/datasets/valid
+test: /content/datasets/test
+nc: 3
+names: ['with_mask', 'mask_weared_incorrect', 'without_mask']
