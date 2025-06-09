@@ -52,7 +52,7 @@ Below figure is the snapshot of YOLOv8 YAML configuration file used to define th
 ![image](https://github.com/user-attachments/assets/bc7d2453-152e-42bc-802b-ad2969ccf512)
 
  
-## Task#02 code: https://www.kaggle.com/code/rafia61/face-mask-detection-yolov8/edit
+## Task#02 code: https://github.com/Rafia-Shaikh-eng/Object-Detection-with-YOLO/tree/main/Task-02 
 
 Results:
   
