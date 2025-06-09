@@ -2,20 +2,24 @@
 Deep Learning course assignment # 02 : Object Detection with YOLO
 
 ## Task 1: Implementing YOLO on a Pre-trained Model 
-Sample 1 input and output images:
+
  
-Sample input image
+Sample 1 input image:
+
 ![image](https://github.com/user-attachments/assets/f952e96f-9bfb-4401-bc60-d572c4c1ec15)
 
 
-Sample output image
+Sample 1 output image:
+
 ![image](https://github.com/user-attachments/assets/001ce28a-65b3-4b7a-a115-b89866d59740)
 
 
-Sample 2 input 
+Sample 2 input image:
+
  ![image](https://github.com/user-attachments/assets/2db69a22-aaf5-46c8-a928-d045115186a7)
 
-Sample 2 output image
+Sample 2 output image:
+
  ![image](https://github.com/user-attachments/assets/4a41b683-5646-4a93-a569-633a85fa54db)
 
 
