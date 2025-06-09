@@ -40,9 +40,11 @@ Below figure is the snapshot of YOLOv8 YAML configuration file used to define th
 ### Model training:
  ![image](https://github.com/user-attachments/assets/39ee9172-71d5-4739-9966-f5a4d6e6affc)
 
-### Model prediction 
- 	 ![image](https://github.com/user-attachments/assets/72262e5e-ec69-40de-ad01-fd5f67003813)
-	 
+### Model prediction:
+
+
+![image](https://github.com/user-attachments/assets/355b7ed9-f0d4-44cf-8ea2-20e61ae3386b)
+
 
 ### Model weights:
 ![image](https://github.com/user-attachments/assets/bc7d2453-152e-42bc-802b-ad2969ccf512)
