@@ -32,9 +32,11 @@ Sample video input and output images and python code: https://github.com/Rafia-S
 ### Dataset description:
  
 I have downloaded face mask dataset from kaggle. There are 853 images and each image’s annotated file in xml format.
+
  ![image](https://github.com/user-attachments/assets/c7319b3d-6433-49d1-b1a0-0431e56378c7)
 
 Below figure is the snapshot of YOLOv8 YAML configuration file used to define the dataset structure. There are 03 classes: with mask, without mask and mask weared incorrect.
+
  ![image](https://github.com/user-attachments/assets/6aa517a7-8846-4a61-b322-7987031429c0)
 
 ### Model training:
